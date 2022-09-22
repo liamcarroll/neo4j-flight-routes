@@ -1,0 +1,135 @@
+Airline_ID,Name,IATA_code,Country
+21,Aigle Azur,ZI,France
+24,American Airlines,AA,United States
+28,Asiana Airlines,OZ,Republic of Korea
+83,Adria Airways,JP,Slovenia
+90,Air Europa,UX,Spain
+130,Aeroflot Russian Airlines,SU,Russia
+137,Air France,AF,France
+151,Air Senegal International,V7,Senegal
+199,Airbus Industrie,AP,France
+214,Air Berlin,AB,Germany
+218,Air India Limited,AI,India
+220,Air Bourbon,ZB,Reunion
+225,Air Tahiti Nui,TN,France
+240,Air One,AP,Italy
+242,Air Malta,KM,Malta
+312,Air Sicilia,BM,Italy
+321,AeroMexico,AM,Mexico
+324,All Nippon Airways,NH,Japan
+330,Air Canada,AC,Canada
+333,Air Baltic,BT,Latvia
+345,Air New Zealand,NZ,New Zealand
+439,Alaska Airlines,AS,ALASKA
+491,Austrian Airlines,OS,Austria
+596,Alitalia,AZ,Italy
+751,Air China,CA,China
+807,Air Dolomiti,EN,Italy
+837,Aer Lingus,EI,Ireland
+1166,African Safari Airways,QS,Kenya
+1203,Airlinair,A5,France
+1316,AirTran Airways,FL,United States
+1317,Air Transat,TS,Canada
+1355,British Airways,BA,United Kingdom
+1359,Biman Bangladesh Airlines,BG,Bangladesh
+1463,Blue Panorama Airlines,BV,Italy
+1521,Bayu Indonesia Air,BM,Indonesia
+1531,Brussels Airlines,SN,Belgium
+1539,Binter Canarias,NT,Spain
+1548,Bulgaria Air,FB,Bulgaria
+1680,Cathay Pacific,CX,Hong Kong SAR of China
+1756,China Airlines,CI,Taiwan
+1758,China Eastern Airlines,MU,China
+1769,China United Airlines,HR,China
+1792,CityJet,WX,Ireland
+1868,Condor Flugdienst,DE,Germany
+1925,Croatia Airlines,OU,Croatia
+1942,Cyprus Airways,CY,Cyprus
+1946,Czech Airlines,OK,Czech Republic
+1954,DAT Danish Air Transport,DX,Denmark
+2009,Delta Air Lines,DL,United States
+2150,El Al Israel Airlines,LY,Israel
+2183,Emirates,EK,United Arab Emirates
+2218,Estonian Air,OV,Estonia
+2220,Ethiopian Airlines,ET,Ethiopia
+2222,Etihad Airways,EY,United Arab Emirates
+2245,Eurolot,K2,Poland
+2260,Eurowings,EW,Germany
+2297,easyJet,U2,United Kingdom
+2350,Finnair,AY,Finland
+2421,Flybe,BE,United Kingdom
+2439,Formosa Airlines,VY,Taiwan
+2448,Four Star Aviation / Four Star Cargo,HK,United States
+2468,Frontier Airlines,F9,United States
+2548,Germanwings,4U,Germany
+2638,Gulf Air Bahrain,GF,Bahrain
+2659,Hahn Air,HR,Germany
+2660,Hainan Airlines,HU,China
+2681,TUIfly,X3,Germany
+2684,Harmony Airways,HQ,Canada
+2688,Hawaiian Airlines,HA,United States
+2822,Iberia Airlines,IB,Spain
+2987,Japan Airlines,JL,Japan
+2988,Japan Airlines Domestic,JL,Japan
+3026,Jet2.com,LS,United Kingdom
+3029,JetBlue Airways,B6,United States
+3090,KLM Royal Dutch Airlines,KL,Netherlands
+3126,Kenya Airways,KQ,Kenya
+3163,Korean Air,KE,Republic of Korea
+3179,Kuwait Airways,KU,Kuwait
+3200,LAN Airlines,LA,Chile
+3210,LOT Polish Airlines,LO,Poland
+3213,LTU International,LT,Germany
+3320,Lufthansa,LH,Germany
+3321,Lufthansa Cargo,LH,Germany
+3329,Luxair,LG,Luxembourg
+3378,Malaysia Airlines,MH,Malaysia
+3386,Malmo Aviation,TF,Sweden
+3463,Meridiana,IG,Italy
+3532,Monarch Airlines,ZB,United Kingdom
+3661,Niki,HG,Austria
+3737,Norwegian Air Shuttle,DY,Norway
+3740,Nouvel Air Tunisie,BJ,Tunisia
+3830,Ozark Air Lines,OZ,United States
+3871,Pakistan International Airlines,PK,Pakistan
+4040,President Airlines,TO,Cambodia
+4089,Qantas,QF,Australia
+4091,Qatar Airways,QR,Qatar
+4248,Royal Air Maroc,AT,Morocco
+4259,Royal Jordanian,RJ,Jordan
+4296,Ryanair,FR,Ireland
+4304,SATA International,S4,Portugal
+4305,South African Airways,SA,South Africa
+4319,Scandinavian Airlines System,SK,Sweden
+4435,Singapore Airlines,SQ,Singapore
+4464,Singapore Airlines Cargo,SQ,Singapore
+4547,Southwest Airlines,WN,United States
+4687,Spirit Airlines,NK,United States
+4869,TAP Portugal,TP,Portugal
+4940,Thai Airways International,TG,Thailand
+4951,Turkish Airlines,TK,Turkey
+4965,Twin Jet,T7,France
+5039,Transavia Holland,HV,Netherlands
+5067,Transaero Airlines,UN,Russia
+5097,Travel Service,QS,Czech Republic
+5179,Tarom,RO,Romania
+5209,United Airlines,UA,United States
+5213,United Feeder Service,U2,United States
+5265,US Airways,US,United States
+5281,Uzbekistan Airways,HY,Uzbekistan
+5288,V Australia Airlines,VA,Australia
+5309,Vietnam Airlines,VN,Vietnam
+5322,Viasa,VA,Venezuela
+5331,Virgin America,VX,United States
+5347,Virgin Atlantic Airways,VS,United Kingdom
+5352,Vueling Airlines,VY,Spain
+5360,Virgin Australia,VA,Australia
+5416,WestJet,WS,Canada
+5461,Wizz Air,W6,Hungary
+5479,XL Airways France,SE,France
+8745,Transavia France,TO,France
+9784,Yangon Airways,HK,Burma
+18643,HQ- Business Express,HQ,United States
+19610,Air Lituanica,LT,Lithuania
+20565,Boutique Air (Priv),4B,United States
+20577,VOLOTEA Airways,V7,Spain

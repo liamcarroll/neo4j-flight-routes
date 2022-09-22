@@ -1,0 +1,99 @@
+Airport_ID,Name,City,IATA_code,Lat,Long
+302,Brussels Airport,Brussels,BRU,50.90140152,4.48443985
+304,Brussels South Charleroi Airport,Charleroi,CRL,50.459202,4.45382
+309,Liege Airport,Liege,LGG,50.63740158,5.443220139
+340,Frankfurt am Main Airport,Frankfurt,FRA,50.033333,8.570556
+342,Hamburg Airport,Hamburg,HAM,53.63040161,9.988229752
+345,Dusseldorf Airport,Duesseldorf,DUS,51.289501,6.76678
+346,Munich Airport,Munich,MUC,48.353802,11.7861
+351,Berlin-Tegel Airport,Berlin,TXL,52.5597,13.2877
+415,Lennart Meri Tallinn Airport,Tallinn,TLL,59.41329956,24.83279991
+421,Helsinki Vantaa Airport,Helsinki,HEL,60.31719971,24.9633007
+446,Oulu Airport,Oulu,OUL,64.93009949,25.35460091
+465,Belfast International Airport,Belfast,BFS,54.65750122,-6.215829849
+467,George Best Belfast City Airport,Belfast,BHD,54.61809921,-5.872499943
+478,Manchester Airport,Manchester,MAN,53.35369873,-2.274950027
+488,Cardiff International Airport,Cardiff,CWL,51.39670181,-3.343329906
+492,London Luton Airport,London,LTN,51.87469864,-0.368333012
+502,London Gatwick Airport,London,LGW,51.148102,-0.190278
+507,London Heathrow Airport,London,LHR,51.4706,-0.461941
+532,Aberdeen Dyce Airport,Aberdeen,ABZ,57.20190048,-2.197779894
+534,Glasgow International Airport,Glasgow,GLA,55.87189865,-4.433060169
+535,Edinburgh Airport,Edinburgh,EDI,55.95000076,-3.372499943
+548,London Stansted Airport,London,STN,51.88499832,0.234999999
+580,Amsterdam Airport Schiphol,Amsterdam,AMS,52.308601,4.76389
+585,Eindhoven Airport,Eindhoven,EIN,51.45009995,5.374529839
+591,Rotterdam The Hague Airport,Rotterdam,RTM,51.956902,4.43722
+596,Cork Airport,Cork,ORK,51.84130096,-8.491109848
+599,Dublin Airport,Dublin,DUB,53.421299,-6.27007
+603,Shannon Airport,Shannon,SNN,52.702,-8.92482
+608,Billund Airport,Billund,BLL,55.74029922,9.151780128
+609,Copenhagen Kastrup Airport,Copenhagen,CPH,55.61790085,12.65600014
+628,Aalborg Airport,Aalborg,AAL,57.09275891,9.849243164
+629,Luxembourg-Findel International Airport,Luxemburg,LUX,49.6233333,6.2044444
+668,Gdansk Lech Walesa Airport,Gdansk,GDN,54.37760162,18.46619987
+669,Krakow John Paul II International Airport,Krakow,KRK,50.077702,19.7848
+671,Katowice International Airport,Katowice,KTW,50.4743,19.08
+679,Warsaw Chopin Airport,Warsaw,WAW,52.16569901,20.96710014
+680,Copernicus Wroclaw Airport,Wroclaw,WRO,51.10269928,16.88579941
+687,Gothenburg-Landvetter Airport,Gothenborg,GOT,57.66279984,12.27980042
+699,Stockholm Skavsta Airport,Stockholm,NYO,58.78860092,16.91220093
+708,Malmo Sturup Airport,Malmoe,MMX,55.53630536,13.37619781
+737,Stockholm-Arlanda Airport,Stockholm,ARN,59.65190125,17.91860008
+738,Stockholm-Bromma Airport,Stockholm,BMA,59.35440063,17.94169998
+1191,Burgas Airport,Bourgas,BOJ,42.56959915,27.51519966
+1194,Sofia Airport,Sofia,SOF,42.69669342,23.41143608
+1196,Varna Airport,Varna,VAR,43.232101,27.8251
+1197,Larnaca International Airport,Larnaca,LCA,34.87509918,33.62490082
+1198,Paphos International Airport,Paphos,PFO,34.7179985,32.4856987
+1200,Dubrovnik Airport,Dubrovnik,DBV,42.56140137,18.26819992
+1206,Split Airport,Split,SPU,43.53889847,16.29800034
+1208,Zagreb Airport,Zagreb,ZAG,45.74290085,16.06879997
+1212,Alicante International Airport,Alicante,ALC,38.28219986,-0.558156013
+1218,Barcelona International Airport,Barcelona,BCN,41.2971,2.07846
+1229,Adolfo Suarez Madrid-Barajas Airport,Madrid,MAD,40.471926,-3.56264
+1230,Malaga Airport,Malaga,AGP,36.67490005,-4.499110222
+1273,Toulouse-Blagnac Airport,Toulouse,TLS,43.629101,1.36382
+1335,Lyon Saint-Exupery Airport,Lyon,LYS,45.725556,5.081111
+1354,Nice-Cote d'Azur Airport,Nice,NCE,43.65840149,7.215869904
+1382,Charles de Gaulle International Airport,Paris,CDG,49.012798,2.55
+1386,Paris-Orly Airport,Paris,ORY,48.7233333,2.3794444
+1489,Budapest Liszt Ferenc International Airport,Budapest,BUD,47.42976,19.261093
+1490,Debrecen International Airport,Debrecen,DEB,47.48889923,21.61529922
+1509,Catania-Fontanarossa Airport,Catania,CTA,37.466801,15.0664
+1524,Malpensa International Airport,Milano,MXP,45.6306,8.72811
+1525,Il Caravaggio International Airport,Bergamo,BGY,45.673901,9.70417
+1551,Venice Marco Polo Airport,Venice,VCE,45.505299,12.3519
+1555,Leonardo da Vinci-Fiumicino Airport,Rome,FCO,41.8002778,12.2388889
+1569,Ljubljana Joze Pucnik Airport,Ljubljana,LJU,46.223701,14.4576
+1587,Vaclav Havel Airport Prague,Prague,PRG,50.1008,14.26
+1588,Brno-Turany Airport,Brno,BRQ,49.15129852,16.69440079
+1606,Malta International Airport,Malta,MLA,35.857498,14.4775
+1609,Graz Airport,Graz,GRZ,46.99110031,15.43959999
+1610,Innsbruck Airport,Innsbruck,INN,47.260201,11.344
+1612,Salzburg Airport,Salzburg,SZG,47.79330063,13.00430012
+1613,Vienna International Airport,Vienna,VIE,48.11029816,16.56970024
+1626,Faro Airport,Faro,FAO,37.01440048,-7.965909958
+1633,Joao Paulo II Airport,Ponta Delgada,PDL,37.74119949,-25.69790077
+1636,Francisco de Sa Carneiro Airport,Porto,OPO,41.24810028,-8.681389809
+1638,Humberto Delgado Airport (Lisbon Portela Airport),Lisbon,LIS,38.7813,-9.13592
+1652,Cluj-Napoca International Airport,Cluj-napoca,CLJ,46.78519821,23.68619919
+1655,Iasi Airport,Iasi,IAS,47.17850113,27.62059975
+1657,Henri Coanda International Airport,Bucharest,OTP,44.5711111,26.085
+1663,Timisoara Traian Vuia Airport,Timisoara,TSR,45.80989838,21.33790016
+1745,M. R. Stefanik Airport,Bratislava,BTS,48.17020035,17.21269989
+3469,San Francisco International Airport,San Francisco,SFO,37.61899948,-122.375
+3484,Los Angeles International Airport,Los Angeles,LAX,33.94250107,-118.4079971
+3577,Seattle Tacoma International Airport,Seattle,SEA,47.449001,-122.308998
+3670,Dallas Fort Worth International Airport,Dallas-Fort Worth,DFW,32.896801,-97.038002
+3682,Hartsfield Jackson Atlanta International Airport,Atlanta,ATL,33.6367,-84.428101
+3751,Denver International Airport,Denver,DEN,39.86169815,-104.6729965
+3797,John F Kennedy International Airport,New York,JFK,40.63980103,-73.77890015
+3830,Chicago O'Hare International Airport,Chicago,ORD,41.9786,-87.9048
+3877,McCarran International Airport,Las Vegas,LAS,36.08010101,-115.1520004
+3878,Orlando International Airport,Orlando,MCO,28.42939949,-81.30899811
+3953,Riga International Airport,Riga,RIX,56.92359924,23.97109985
+3956,Kaunas International Airport,Kaunas,KUN,54.96390152,24.08480072
+3959,Vilnius International Airport,Vilnius,VNO,54.634102,25.285801
+3998,Palma De Mallorca Airport,Palma de Mallorca,PMI,39.55170059,2.738810062
+4091,Madeira Airport,Funchal,FNC,32.697899,-16.7745
